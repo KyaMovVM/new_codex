@@ -1,0 +1,14 @@
+{
+  "name": "Animal",
+  "methods": ["speak"],
+  "children": [
+    {
+      "name": "Dog",
+      "methods": ["bark"]
+    },
+    {
+      "name": "Cat",
+      "methods": ["meow"]
+    }
+  ]
+}
