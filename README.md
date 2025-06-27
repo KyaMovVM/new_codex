@@ -46,3 +46,6 @@ python crossref.py -o crossref.txt
 
 См. раздел о шаблонах: [docs/templates.md](docs/templates.md).
 
+## Генератор отчётов о метриках
+Скрипт `metrics_report.py` собирает статистику по Python-файлам проекта. Подробности см. в документе [docs/metrics.md](docs/metrics.md).
+
